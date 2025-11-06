@@ -1,0 +1,5 @@
+RELATÓRIO DE EXECUÇÃO
+----------------------
+Total de arquivos criados: 3
+Total de pastas criadas: 0
+Data/Hora do backup: 06/11/2025 19:41:31,30
